@@ -1,0 +1,2 @@
+# AutoIt3
+-> Press Ctrl+Alt+Break to Restart or Ctrl+Break to Stop  ’®¬ ў гбва®©бвўҐ C ­Ґ Ё¬ҐҐв ¬ҐвЄЁ.  ‘ҐаЁ©­л© ­®¬Ґа в®¬ : B01B-0700   ‘®¤Ґа¦Ё¬®Ґ Ї ЇЄЁ C:\WINDOWS\Microsoft.Net\Framework  23.05.2016  20:22    &lt;DIR>          v1.1.4322 24.05.2016  11:10    &lt;DIR>          v2.0.50727 23.05.2016  20:22    &lt;DIR>          v3.0 23.05.2016  20:23    &lt;DIR>          v3.5                0 д ©«®ў              0 Ў ©в                4 Ї Ї®Є  48я747я728я896 Ў ©в бў®Ў®¤­®  +>21:04:41 AutoIt3.exe ended.rc:0
